@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="ci.jeunesse.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
-    <name>Yskole ! Jeunesse.ci</name>
-    <description>Yskole! le magazine numerique des jeunes de Babi et de la Côte d'Ivoire</description>
+    <name>Yskole !</name>
+    <description>Yskole! le magazine numérique des jeunes de Babi et de la Côte d'Ivoire</description>
     <author email="sahino_aet@outlook.fr" href="http://www.jeunesse.ci">Arthur Sahino</author>
 
     <preference name="phonegap-version" value="3.3.0" />
